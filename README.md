@@ -1,5 +1,3 @@
-# space-jump
-complete the 10 levels
 <!DOCTYPE html>
 <html lang="sv">
 <head>
